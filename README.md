@@ -132,15 +132,15 @@ Add screenshots here:
 
 ### Agent Registration
 
-![Agent Registration](./screenshots/register-agent.png)
+![Agent Registration](./register-agent.jpg)
 
 ### Reputation System
 
-![Reputation](./screenshots/reputation.png)
+![Reputation](./reputation.jpg)
 
 ### Validation Workflow
 
-![Validation](./screenshots/validation.png)
+![Validation](./validation.jpg)
 
 ---
 
