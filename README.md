@@ -144,19 +144,6 @@ Add screenshots here:
 
 ---
 
-## 🎥 Demo Video
-
-Add a short demo video showing:
-
-* Wallet connection
-* Agent registration
-* IPFS metadata upload
-* Identity verification
-* Reputation tracking
-* Validation workflow
-
----
-
 ## 🚀 Future Roadmap
 
 * AI Agent Marketplace
