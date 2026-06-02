@@ -128,7 +128,7 @@ Add screenshots here:
 
 ### Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./dashboard.jpg)
 
 ### Agent Registration
 
